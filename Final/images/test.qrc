@@ -1,0 +1,12 @@
+<RCC>
+<<<<<<< HEAD
+  <qresource prefix="images">
+=======
+  <qresource prefix="newPrefix">
+    <file>bonobono.png</file>
+    <file>Training.webp</file>
+    <file>folder.jpg</file>
+>>>>>>> 37f10139944029fd238cdd63c44052e7754caeeb
+    <file>open.png</file>
+  </qresource>
+</RCC>
